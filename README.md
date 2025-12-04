@@ -1,2 +1,4 @@
-# Lung-Disease-Classification
-Classification of Lung Diseases  using Deep Learning B.Tech Final Year Project | Ravindra College of Engineering for Women (Autonomous)  Models: AlexNet + GoogLeNet (InceptionV3) | Accuracy: 97.8% One-Click Run on Google Colab | No Installation | GPU Accelerated Includes: Full Code + Dataset Auto-Download + Graphs + Confusion Matrix   
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Stars](https://img.shields.io/github/stars/arshi-shaik/LungDisease-Evolution-Benchmark-2025)
+![Last Commit](https://img.shields.io/github/last-commit/arshi-shaik/LungDisease-Evolution-Benchmark-2025)
+![Issues](https://img.shields.io/github/issues/arshi-shaik/LungDisease-Evolution-Benchmark-2025)
